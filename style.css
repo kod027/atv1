@@ -1,0 +1,33 @@
+body {
+    font-family: arial ; 
+    background: rgb(180, 175, 175); 
+    }
+
+    h1 {
+        font-size: 30px; 
+        color: #fcfcfc; 
+        margin-top: 10px; 
+        margin-bottom: 10px; 
+        text-align: center
+        }
+        
+    img {width: 125px;
+        height: 125px;
+        margin: 0px;
+        margin-left: 15px;
+    }
+
+        .Cabecalho{
+            background-color: floralwhite;
+        }
+        .Item_Cabecalho{
+            display: flex;
+            margin-left: 250px;
+        }
+        .Iten_Lista_Cabecalho{
+            color: #c9290d;
+            list-style: none;
+            text-transform: uppercase;
+            font-size: 15px;
+            padding: 5px;
+        }
